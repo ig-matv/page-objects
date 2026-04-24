@@ -1,4 +1,4 @@
-#  Automação com Cypress - Page Objects
+#  Automação com Cypress - Page Objects ![Cypress](https://img.shields.io/badge/-Cypress-17202C?style=for-the-badge&logo=cypress&logoColor=white)
 
 Neste projeto desenvolvi uma automação de testes E2E utilizando Cypress com foco na aplicação do padrão Page Objects.
 
