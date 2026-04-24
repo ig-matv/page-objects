@@ -1,4 +1,4 @@
-#  Automação com Cypress - Page Objects <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/cypress.svg" width="40" height="40"/>
+#  Automação com Cypress - Page Objects 
 
 Neste projeto desenvolvi uma automação de testes E2E utilizando Cypress com foco na aplicação do padrão Page Objects.
 
@@ -7,3 +7,5 @@ A ideia principal foi estruturar os testes de forma mais organizada, separando a
 Utilizei o padrão Page Objects para centralizar os seletores e métodos, permitindo que os cenários de teste fiquem mais diretos e legíveis, focando apenas no comportamento que está sendo testado.
 
 Este projeto foi criado com o objetivo de praticar boas práticas de automação e melhorar a estrutura dos testes utilizando Cypress.
+
+<img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/cypress.svg" width="40" height="40"/>
